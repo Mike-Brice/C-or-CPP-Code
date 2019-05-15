@@ -1,0 +1,1 @@
+This labs purpose was to experiment with matrix multiplication in parallel (each row is a thread, each column is a thread, and each element is a thread) using OpenMP and comparing different time measurement functions. I also demonstrate here my ability to seperate functions into multiple files for better organization.

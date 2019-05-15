@@ -1,0 +1,1 @@
+The project utilizes OpenMP to find the nearest house to a train station.

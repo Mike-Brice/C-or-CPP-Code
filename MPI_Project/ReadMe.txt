@@ -1,0 +1,1 @@
+The project utilizes MPI to find the nearest house to a train station.
