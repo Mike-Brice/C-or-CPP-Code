@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  FinalProject.cpp
+g:\users\mike\documents\michael\college\central\grad\cs 573\finalproject\finalproject\finalproject.cpp(76): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  FinalProject.vcxproj -> G:\Users\Mike\Documents\Michael\College\Central\Grad\CS 573\FinalProject\Debug\FinalProject.exe
+  FinalProject.vcxproj -> G:\Users\Mike\Documents\Michael\College\Central\Grad\CS 573\FinalProject\Debug\FinalProject.pdb (Full PDB)

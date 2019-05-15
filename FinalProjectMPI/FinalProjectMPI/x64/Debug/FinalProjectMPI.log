@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  FinalProjectMPI.cpp
+FinalProjectMPI.obj : error LNK2019: unresolved external symbol MPI_Comm_size referenced in function main
+FinalProjectMPI.obj : error LNK2019: unresolved external symbol MPI_Comm_rank referenced in function main
+FinalProjectMPI.obj : error LNK2019: unresolved external symbol MPI_Init referenced in function main
+C:\Program Files (x86)\Microsoft SDKs\MPI\Lib\x86\\msmpi.lib : warning LNK4272: library machine type 'X86' conflicts with target machine type 'x64'
+G:\Users\Mike\Documents\Michael\College\Central\Grad\CS 573\FinalProjectMPI\x64\Debug\FinalProjectMPI.exe : fatal error LNK1120: 3 unresolved externals

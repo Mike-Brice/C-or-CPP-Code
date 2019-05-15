@@ -1,0 +1,298 @@
+Constant Power
+Row Wise openMP: Clock()
+Data from m, 100, n, 100
+Time taken, 1.186980, seconds
+Data from m, 200, n, 100
+Time taken, 8.093617, seconds
+Data from m, 300, n, 100
+Time taken, 25.661400, seconds
+Data from m, 400, n, 100
+Time taken, 61.896497, seconds
+Data from m, 500, n, 100
+Time taken, 122.118458, seconds
+Data from m, 600, n, 100
+Time taken, 212.784627, seconds
+Data from m, 700, n, 100
+Time taken, 344.008237, seconds
+Data from m, 800, n, 100
+Time taken, 520.188293, seconds
+Data from m, 900, n, 100
+Time taken, 761.299815, seconds
+Data from m, 1000, n, 100
+Time taken, 1055.157644, seconds
+
+Row Wise openMP: time()
+Data from m, 100, n, 100
+Time taken, 0.000000, seconds
+Data from m, 200, n, 100
+Time taken, 1.000000, seconds
+Data from m, 300, n, 100
+Time taken, 3.000000, seconds
+Data from m, 400, n, 100
+Time taken, 4.000000, seconds
+Data from m, 500, n, 100
+Time taken, 9.000000, seconds
+Data from m, 600, n, 100
+Time taken, 15.000000, seconds
+Data from m, 700, n, 100
+Time taken, 22.000000, seconds
+Data from m, 800, n, 100
+Time taken, 34.000000, seconds
+Data from m, 900, n, 100
+Time taken, 50.000000, seconds
+Data from m, 1000, n, 100
+Time taken, 69.000000, seconds
+
+Row Wise openMP: gettimeofday()
+Data from m, 100, n, 100
+Time taken, 0.000000, seconds
+Data from m, 200, n, 100
+Time taken, 1.000000, seconds
+Data from m, 300, n, 100
+Time taken, 3.000000, seconds
+Data from m, 400, n, 100
+Time taken, 4.000000, seconds
+Data from m, 500, n, 100
+Time taken, 9.000000, seconds
+Data from m, 600, n, 100
+Time taken, 15.000000, seconds
+Data from m, 700, n, 100
+Time taken, 23.000000, seconds
+Data from m, 800, n, 100
+Time taken, 34.000000, seconds
+Data from m, 900, n, 100
+Time taken, 49.000000, seconds
+Data from m, 1000, n, 100
+Time taken, 69.000000, seconds
+Constant Size
+Row Wise openMP: Clock()
+Data from m, 1000, n, 100
+Time taken, 1055.922688, seconds
+Data from m, 1000, n, 200
+Time taken, 2122.040186, seconds
+Data from m, 1000, n, 300
+Time taken, 3188.385134, seconds
+Data from m, 1000, n, 400
+Time taken, 4263.472405, seconds
+Data from m, 1000, n, 500
+Time taken, 5347.497560, seconds
+
+Row Wise openMP: time()
+Data from m, 1000, n, 100
+Time taken, 70.000000, seconds
+Data from m, 1000, n, 200
+Time taken, 137.000000, seconds
+Data from m, 1000, n, 300
+Time taken, 209.000000, seconds
+Data from m, 1000, n, 400
+Time taken, 281.000000, seconds
+Data from m, 1000, n, 500
+Time taken, 354.000000, seconds
+
+Row Wise openMP: gettimeofday()
+Data from m, 1000, n, 100
+Time taken, 69.000000, seconds
+Data from m, 1000, n, 200
+Time taken, 139.000000, seconds
+Data from m, 1000, n, 300
+Time taken, 211.000000, seconds
+Data from m, 1000, n, 400
+Time taken, 281.000000, seconds
+Data from m, 1000, n, 500
+Time taken, 353.000000, seconds
+Constant Power
+Column Wise openMP: Clock()
+Data from m, 100, n, 100
+Time taken, 1.175478, seconds
+Data from m, 200, n, 100
+Time taken, 7.952884, seconds
+Data from m, 300, n, 100
+Time taken, 26.458437, seconds
+Data from m, 400, n, 100
+Time taken, 63.343460, seconds
+Data from m, 500, n, 100
+Time taken, 123.767277, seconds
+Data from m, 600, n, 100
+Time taken, 214.755176, seconds
+Data from m, 700, n, 100
+Time taken, 346.426343, seconds
+Data from m, 800, n, 100
+Time taken, 522.549798, seconds
+Data from m, 900, n, 100
+Time taken, 754.463982, seconds
+Data from m, 1000, n, 100
+Time taken, 1043.296215, seconds
+Column Wise openMP: time()
+Data from m, 100, n, 100
+Time taken, 0.000000, seconds
+Data from m, 200, n, 100
+Time taken, 1.000000, seconds
+Data from m, 300, n, 100
+Time taken, 2.000000, seconds
+Data from m, 400, n, 100
+Time taken, 5.000000, seconds
+Data from m, 500, n, 100
+Time taken, 9.000000, seconds
+Data from m, 600, n, 100
+Time taken, 14.000000, seconds
+Data from m, 700, n, 100
+Time taken, 24.000000, seconds
+Data from m, 800, n, 100
+Time taken, 35.000000, seconds
+Data from m, 900, n, 100
+Time taken, 49.000000, seconds
+Data from m, 1000, n, 100
+Time taken, 68.000000, seconds
+Column Wise openMP: gettimeofday()
+Data from m, 100, n, 100
+Time taken, 0.000000, seconds
+Data from m, 200, n, 100
+Time taken, 1.000000, seconds
+Data from m, 300, n, 100
+Time taken, 3.000000, seconds
+Data from m, 400, n, 100
+Time taken, 4.000000, seconds
+Data from m, 500, n, 100
+Time taken, 9.000000, seconds
+Data from m, 600, n, 100
+Time taken, 15.000000, seconds
+Data from m, 700, n, 100
+Time taken, 23.000000, seconds
+Data from m, 800, n, 100
+Time taken, 34.000000, seconds
+Data from m, 900, n, 100
+Time taken, 49.000000, seconds
+Data from m, 1000, n, 100
+Time taken, 68.000000, seconds
+Constant Size
+Column Wise openMP: Clock()
+Data from m, 1000, n, 100
+Time taken, 1042.478079, seconds
+Data from m, 1000, n, 200
+Time taken, 2106.232027, seconds
+Data from m, 1000, n, 300
+Time taken, 3140.034427, seconds
+Data from m, 1000, n, 400
+Time taken, 4201.889493, seconds
+Data from m, 1000, n, 500
+Time taken, 5214.634577, seconds
+Column Wise openMP: time()
+Data from m, 1000, n, 100
+Time taken, 71.000000, seconds
+Data from m, 1000, n, 200
+Time taken, 141.000000, seconds
+Data from m, 1000, n, 300
+Time taken, 207.000000, seconds
+Data from m, 1000, n, 400
+Time taken, 276.000000, seconds
+Data from m, 1000, n, 500
+Time taken, 344.000000, seconds
+Column Wise openMP: gettimeofday()
+Data from m, 1000, n, 100
+Time taken, 68.000000, seconds
+Data from m, 1000, n, 200
+Time taken, 138.000000, seconds
+Data from m, 1000, n, 300
+Time taken, 206.000000, seconds
+Data from m, 1000, n, 400
+Time taken, 278.000000, seconds
+Data from m, 1000, n, 500
+Time taken, 345.000000, seconds
+Constant Power
+Element Wise openMP: Clock()
+Data from m, 100, n, 100
+Time taken, 1.602997, seconds
+Data from m, 200, n, 100
+Time taken, 11.228687, seconds
+Data from m, 300, n, 100
+Time taken, 36.279664, seconds
+Data from m, 400, n, 100
+Time taken, 87.779270, seconds
+Data from m, 500, n, 100
+Time taken, 172.661399, seconds
+Data from m, 600, n, 100
+Time taken, 301.328224, seconds
+Data from m, 700, n, 100
+Time taken, 481.267917, seconds
+Data from m, 800, n, 100
+Time taken, 718.639835, seconds
+Data from m, 900, n, 100
+Time taken, 1037.602815, seconds
+Data from m, 1000, n, 100
+Time taken, 1425.660611, seconds
+Element Wise openMP: time()
+Data from m, 100, n, 100
+Time taken, 0.000000, seconds
+Data from m, 200, n, 100
+Time taken, 1.000000, seconds
+Data from m, 300, n, 100
+Time taken, 4.000000, seconds
+Data from m, 400, n, 100
+Time taken, 6.000000, seconds
+Data from m, 500, n, 100
+Time taken, 12.000000, seconds
+Data from m, 600, n, 100
+Time taken, 20.000000, seconds
+Data from m, 700, n, 100
+Time taken, 32.000000, seconds
+Data from m, 800, n, 100
+Time taken, 48.000000, seconds
+Data from m, 900, n, 100
+Time taken, 68.000000, seconds
+Data from m, 1000, n, 100
+Time taken, 94.000000, seconds
+Element Wise openMP: gettimeofday()
+Data from m, 100, n, 100
+Time taken, 0.000000, seconds
+Data from m, 200, n, 100
+Time taken, 2.000000, seconds
+Data from m, 300, n, 100
+Time taken, 2.000000, seconds
+Data from m, 400, n, 100
+Time taken, 7.000000, seconds
+Data from m, 500, n, 100
+Time taken, 11.000000, seconds
+Data from m, 600, n, 100
+Time taken, 20.000000, seconds
+Data from m, 700, n, 100
+Time taken, 32.000000, seconds
+Data from m, 800, n, 100
+Time taken, 48.000000, seconds
+Data from m, 900, n, 100
+Time taken, 67.000000, seconds
+Data from m, 1000, n, 100
+Time taken, 95.000000, seconds
+Constant Size
+Element Wise openMP: Clock()
+Data from m, 1000, n, 100
+Time taken, 1412.266338, seconds
+Data from m, 1000, n, 200
+Time taken, 2858.074913, seconds
+Data from m, 1000, n, 300
+Time taken, 4287.999004, seconds
+Data from m, 1000, n, 400
+Time taken, 5745.741002, seconds
+Data from m, 1000, n, 500
+Time taken, 7214.054098, seconds
+Element Wise openMP: time()
+Data from m, 1000, n, 100
+Time taken, 91.000000, seconds
+Data from m, 1000, n, 200
+Time taken, 184.000000, seconds
+Data from m, 1000, n, 300
+Time taken, 276.000000, seconds
+Data from m, 1000, n, 400
+Time taken, 368.000000, seconds
+Data from m, 1000, n, 500
+Time taken, 461.000000, seconds
+Element Wise openMP: gettimeofday()
+Data from m, 1000, n, 100
+Time taken, 91.000000, seconds
+Data from m, 1000, n, 200
+Time taken, 184.000000, seconds
+Data from m, 1000, n, 300
+Time taken, 275.000000, seconds
+Data from m, 1000, n, 400
+Time taken, 368.000000, seconds
+Data from m, 1000, n, 500
+Time taken, 460.000000, seconds
